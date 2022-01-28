@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "The Canopy Blog"
+author: "Aditya Visvanathan"
+description: "A small corner of the internet for my ramblings" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "visvanathannaditya@mail.com"
+  #twitter_username: "twitteruser"
+github_username: "canopeerus"
+linkedin_username: "aditya-visvanathan-863444150"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username

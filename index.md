@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+A small piece of the internet where I ramble about things
+that interest me :).
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+About me?
+I'm currently a graduate student studying software
+development at the University of Utah. I love building
+software and everything computers.
