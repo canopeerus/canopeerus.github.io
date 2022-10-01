@@ -1,12 +1,14 @@
 title: "The Canopy Blog"
 author: "Aditya Visvanathan"
-description: "A small corner of the internet for my ramblings" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Yet Another Tech Blog" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "visvanathannaditya@mail.com"
+email: "aditya.visvanathan@utah.edu"
   #twitter_username: "twitteruser"
 github_username: "canopeerus"
+github_username: "adityavisv"
 linkedin_username: "aditya-visvanathan-863444150"
 #facebook_username: username
 #flickr_username: username
